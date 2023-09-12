@@ -109,4 +109,28 @@ sns.pairplot(dt)
 ```
 
 ## Output
+## Catplot
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/catplot.png)
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/2nd%20ic.png)
 
+## bocplot
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/boxplot.png)
+
+## scatterplot
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/scatter.png)
+
+## Multivariate Analysis
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/multi.png)
+
+## Catplot (multivariate)
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/cat%20multi.png)
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/format.png)
+
+## corr
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/corr.png)
+
+## pairplot
+![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/pair.png)
+
+## Result
+Thus,The program has been Executed Successfully.
