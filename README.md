@@ -1,8 +1,5 @@
 # Ex-04-Multivariate-Analysis
 
-Reg.No : 212222230018
-Name: Barath S
-
 ## AIM
 To perform Multivariate EDA on the given data set.
 
@@ -34,7 +31,11 @@ Find the pairwise correlation of all columns in the dataframe.corr()
 STEP 8
 Save the final data set into the file
 
-## Progrma
+## Program
+```
+Reg.No : 212222230018
+Name: Barath S
+```
 ```python
 import pandas as pd
 import numpy as np
