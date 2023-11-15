@@ -95,8 +95,7 @@ sns.pairplot(dt)
 ## corr
 ![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/corr.png)
 
-## pairplot
-![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/pair.png)
+
 
 ## Result
 Thus,The program has been Executed Successfully.
