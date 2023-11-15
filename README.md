@@ -82,7 +82,6 @@ sns.pairplot(dt)
 ## Output
 ## Catplot
 ![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/catplot.png)
-![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/2nd%20ic.png)
 
 ## bocplot
 ![image](https://github.com/barathsubramani/Ex-04-Multivariate-Analysis/blob/main/boxplot.png)
